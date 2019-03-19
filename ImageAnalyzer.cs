@@ -9,7 +9,7 @@ using JsonPrettyPrinterPlus;
 
 namespace ComputerVision
 {
-    class AnalyzeImage
+    class ImageAnalyzer
     {
         const string skey = "Your subscriptionKey";
         const string uriBase = "https://southeastasia.api.cognitive.microsoft.com/vision/v1.0/analyze";
